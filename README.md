@@ -58,6 +58,11 @@ WHERE category = 'Electronics';
 SELECT *  
 FROM employees  
 WHERE first_name LIKE 'J%';  -- Names starting with 'J'
+
+SELECT * 
+FROM your_table_name
+WHERE date_column BETWEEN '2025-01-01' AND '2025-01-07';
+
 ```
 
 
