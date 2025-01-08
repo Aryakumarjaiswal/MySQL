@@ -1,5 +1,5 @@
 # MySQL
-
+(Continuing https://chatgpt.com/share/677df580-9120-8013-a08e-60daf80940d2 )
 ## 1. SELECT Statements
 
 Concepts:
